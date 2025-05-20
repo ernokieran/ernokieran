@@ -1,4 +1,4 @@
-## Howdy, I'm Kieran 🙋‍♂️
+## Hi, I'm Kieran 🙋‍♂️
 
 ### About Me
 
