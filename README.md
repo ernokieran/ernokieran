@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 💼 I'm a Software Developer @ **[Pinewood.AI](https://www.pinewood.ai/)**.
+- 💼 I'm a Software DevOps Developer @ **[Pinewood.AI](https://www.pinewood.ai/)**.
 - 😁 Pronouns: **he/him/his**.
 - 🎯 I'm currently learning to expand my knowlege in **React** apps on a commercial scale.
 - 🏓 One of my favourite hobbies at the moment is **film photography**.
