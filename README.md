@@ -1,12 +1,7 @@
 ## Hi, I'm Kieran 🙋‍♂️
 
-### About Me
-
-- 💼 I'm a Software DevOps Developer @ **[Pinewood.AI](https://www.pinewood.ai/)**.
-- 😁 Pronouns: **he/him/his**.
-- 🎯 I'm currently learning to expand my knowlege in **React** apps on a commercial scale.
-- 🏓 One of my favourite hobbies at the moment is **film photography**.
-
-### Contact
-
-- 📨 If you would like to contact me, please send an email to: **[hi@kierannoble.dev](mailto:hi@kierannoble.dev)**
+- 💼 Software Developer at [**Pinewood.AI**](https://www.pinewood.ai/)  
+- 🎯 Currently focused on **.NET/C#**, while building skills in **Next.js** and exploring **Kubernetes** for modern web apps and scalable infrastructure  
+- 📷 One of my favourite hobbies at the moment is **film photography**  
+- 🌐 Check out my work at [**kierannoble.dev**](https://kierannoble.dev)  
+- 📨 Say hi: **[hi@kierannoble.dev](mailto:hi@kierannoble.dev)**
